@@ -17,3 +17,34 @@ html{
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+img{
+  width: 100%;
+  margin: 0;
+}
+
+header{
+  background-color: lightgrey;
+}
+
+h1{
+  text-align: center;
+}
+
+nav ol{
+  list-style: none;
+  padding: 0;
+}
+
+nav a{
+  text-decoration: none;
+}
+
+.img-flex{
+  width: 100%;
+}
