@@ -65,4 +65,12 @@ nav a{
     width: 50%;
     float: right;
   }
+
+  nav{
+    text-align: center;
+  }
+
+  nav li{
+    display: inline-block;
+  }
 }
