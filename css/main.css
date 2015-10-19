@@ -56,16 +56,6 @@ nav a{
 
 @media only screen and (min-width: 20em) {
 
-  .craters{
-    width: 50%;
-    float: left;
-  }
-
-  .hill{
-    width: 50%;
-    float: right;
-  }
-
   nav{
     text-align: center;
   }
