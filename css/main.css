@@ -71,4 +71,8 @@ nav a{
       text-align: left;
   }
 
+  nav ol{
+    margin-top: 2em;
+  }
+
 }
