@@ -75,4 +75,16 @@ nav a{
     margin-top: 2em;
   }
 
+  .moons{
+    margin-top: 1em;
+  }
+
+  .moons-h3{
+    text-align: left;
+    margin-top: .75em;
+  }
+
+  .words{
+    margin: -.2em;
+  }
 }
