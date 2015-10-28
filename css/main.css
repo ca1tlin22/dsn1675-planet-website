@@ -57,6 +57,10 @@ nav a:hover{
   padding: 1em 1.5em 0em 1.5em;
 }
 
+.characteristics, .discovery{
+  background-color: #e2e2e2;
+}
+
 @media only screen and (min-width: 20em) {
 
   nav{
