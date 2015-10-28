@@ -29,29 +29,32 @@ img{
 }
 
 header{
-  background-color: lightgrey;
-}
-
-h1{
-  text-align: center;
-}
-
-h3{
-  text-align: center;
-  margin: 0;
+  background-color: #ccc;
 }
 
 nav ol{
   list-style: none;
-  padding: 0;
+  padding: 0em;
+  margin: 0em;
 }
 
 nav a{
   text-decoration: none;
+  color: #0772d0;
+}
+
+nav a:hover{
+  background-color: #0772d0;
+  color: #fff;
 }
 
 .img-flex{
   width: 100%;
+}
+
+.banner{
+  background-color: #e2e2e2;
+  padding: 1em 1.5em 0em 1.5em;
 }
 
 @media only screen and (min-width: 20em) {
